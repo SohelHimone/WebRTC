@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WebRTC.git/static/css/main.073c9b0a.css",
+    "main.js": "/WebRTC.git/static/js/main.b14c89ae.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/WebRTC.git/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/WebRTC.git/index.html",
+    "main.073c9b0a.css.map": "/WebRTC.git/static/css/main.073c9b0a.css.map",
+    "main.b14c89ae.js.map": "/WebRTC.git/static/js/main.b14c89ae.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/WebRTC.git/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b14c89ae.js"
+  ]
+}
